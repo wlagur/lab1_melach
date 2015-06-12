@@ -1,0 +1,1 @@
+web:gunicorn Register:app --log-file=-
